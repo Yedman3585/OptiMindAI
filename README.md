@@ -38,11 +38,10 @@ The project combines advanced computer vision, voice interaction, and navigation
 OptiMindAI is not just a tool but a step toward inclusive technology, ensuring that blind and visually impaired individuals can live more independently, 
 interact with their environment, and gain access to critical information effortlessly.
 
-### Supported By
-The project has garnered interest and mentorship support from organizations such as DSML.KZ — Kazakhstan's largest AI community — 
-which actively contributes to technical validation and guidance.
-
-
+### Team
+(https://github.com/Yedman3585)[@Yedman3585]
+(https://github.com/AskhatSBK)[@AskhatSBK] 
+(https://github.com/Atilla888)[Atilla888]
 
 ## Getting Started
 
@@ -95,4 +94,5 @@ pip install pillow
 ```sh
 pip install wikipedia
 ```
+
 
