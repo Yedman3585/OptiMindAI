@@ -39,9 +39,9 @@ OptiMindAI is not just a tool but a step toward inclusive technology, ensuring t
 interact with their environment, and gain access to critical information effortlessly.
 
 ### Team
-(https://github.com/Yedman3585)[@Yedman3585]
-(https://github.com/AskhatSBK)[@AskhatSBK] 
-(https://github.com/Atilla888)[Atilla888]
+ - (https://github.com/Yedman3585)[@Yedman3585]
+ - (https://github.com/AskhatSBK)[@AskhatSBK] 
+ - (https://github.com/Atilla888)[Atilla888]
 
 ## Getting Started
 
