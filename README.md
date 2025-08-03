@@ -1,4 +1,7 @@
-![OptiMindAI Banner](Background11111.png)
+![OptiMindAI Banner](assets/Background11111.png)
+
+
+[//]: # (![OptiMindAI Banner]&#40;Background11111.png&#41;)
 
 <br />
 <div align="center">
