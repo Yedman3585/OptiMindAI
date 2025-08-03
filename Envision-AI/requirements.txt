@@ -1,0 +1,14 @@
+opencv-python
+pyttsx3
+pyaudio
+requests
+SpeechRecognition
+wikipedia
+Pillow
+torch==2.3.0+cu118
+torchvision==0.18.0+cu118
+ultralytics==8.1.17
+face_recognition
+mtcnn
+numpy
+-f https://download.pytorch.org/whl/torch_stable.html

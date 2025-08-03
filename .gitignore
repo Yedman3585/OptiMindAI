@@ -1,0 +1,31 @@
+﻿# --- Python bytecode / logs ---
+__pycache__/
+*.py[cod]
+*.log
+
+# --- Virtual envs ---
+.venv/
+venv/
+
+# --- Build / packaging ---
+build/
+dist/
+*.egg-info/
+
+# --- IDE configs ---
+.idea/
+.vscode/
+
+# --- Data / model artifacts ---
+data/
+datasets/
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.h5
+*.weights
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
